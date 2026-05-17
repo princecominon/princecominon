@@ -90,10 +90,3 @@ https://github.com/princecominon/weather_app
 > “Code. Learn. Build. Repeat.”
 
 ---
-
-## ⚙️ Snake Animation Setup
-
-Create this file:
-
-```text
-.github/workflows/snake.yml
